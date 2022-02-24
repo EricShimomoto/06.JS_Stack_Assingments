@@ -1,0 +1,16 @@
+body{
+  /* background-color: gray; */
+  background: url(https://thumbs.dreamstime.com/b/abstract-technology-digital-web-site-header-banner-background-74602570.jpg)
+}
+
+div{
+  background-color: green;
+  border-color: yellow;
+  /* border-width: thick; */
+  border-width: 10px;
+  border-style: dotted;
+}
+
+span{
+  background-color: blue;
+}
