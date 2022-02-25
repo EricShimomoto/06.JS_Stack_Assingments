@@ -1,22 +1,21 @@
 body{
-  background-image: url('https://unitepaper.com/wp-content/uploads/2020/02/plain-blue-wallpaper-768x1365-1.png');
-  border: 5px solid #000;
-
-  text-align: center;
-}
-
-h1{
+  font-family: 'Varela Round', sans-serif;
+  background-color: #011627;
   color: white;
-
-}
-
-h2{
-  color:white;
-
+  text-align: center;
+  border: 40px solid black;
+  border-top: 0px;
+  margin:0px;
 }
 
 p{
-  color:white;
-  margin: 100px;
+  padding-top: 5%;
+  padding-left: 20%;
+  padding-right: 20%;
 
+}
+
+#sub{
+  background-color: green;
+  border-radius: 25px
 }
